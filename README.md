@@ -1,7 +1,5 @@
 # James Q Quick 🏃
 
-A Visual Studio Code theme for developers that like to write code quickly. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and optimized with sparkle and shine. ✨
-
 About this theme, and some of the considerations made while creating it (as well as how to create it should you want to make your own): https://selfteach.me/blog/creating-a-vs-code-theme/
 
 ![]()
@@ -14,17 +12,7 @@ About this theme, and some of the considerations made while creating it (as well
 4. Search for **James Q Quick**
 5. Click Install to install it
 6. Click Reload to reload the Code
-7. From the menu bar click: **Code > Preferences > Color Theme > James Q Quick**
-
-## Other Versions
-
-- Hyper
-- iTerm2
-- Atom
-- Alfred
-- TextMate
-- Sublime Text 3
-- Slack
+7. From the menu bar click: **Code > Preferences > Theme > Color Theme > James Q Quick**
 
 ## Separate the Editor from the Sidebar
 
