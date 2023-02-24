@@ -2,8 +2,6 @@
 
 About this theme, and some of the considerations made while creating it (as well as how to create it should you want to make your own): https://selfteach.me/blog/creating-a-vs-code-theme/
 
-![]()
-
 ## Installation
 
 1. Install **[Visual Studio Code](https://code.visualstudio.com/)**
@@ -53,8 +51,6 @@ I use this setting:
 ```json
 "bracketPairColorizer.forceIterationColorCycle": true,
 ```
-
-![]()
 
 ## Miscellaneous
 
